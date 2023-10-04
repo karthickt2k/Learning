@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Hellooo
 world
-=======
-Hellooo xxxx
->>>>>>> eb366d4 (third time)
